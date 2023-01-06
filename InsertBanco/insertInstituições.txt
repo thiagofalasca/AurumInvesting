@@ -1,0 +1,1 @@
+INSERT INTO stockdb VALUES ("1", "XP Investimentos"), ("2", "Rico Investimentos"), ("3", "Clear Investimentos"), ("4", "Modal Mais"), ("5", "BTG Pactual"), ("6", "Genial Investimentos"), ("7", "Coinbase"), ("8", "Binance"), ("9", "Toro Investimentos"), ("10", "Nu Invest"), ("11", "Avenue"), ("12", "Inter"), ("13", "Orama"), ("14", "Guide Investimentos");
