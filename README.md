@@ -1,13 +1,11 @@
 # AurumInvesting
 
-Projeto realizado para a diciplina de Oficina de Integração.
+The project was developed in a group and aims to be a comprehensive web-based investment management platform. Users can register their investments in stocks, fixed income, and checking accounts, and track their performance through graphs and metrics.
 
-O projeto foi desenvolvido em grupo, e tem como objetivo ser uma plataforma de gerenciamento de investimentos web completa, onde  usuário pode cadastrar os seus investimentos em ações, renda fixa e conta corrente, e acompanhar o seu desempenho através de gráficos e métricas.
+The application has its limitations due to the weak capabilities of some used free versions of APIs.
 
-A aplicação possui suas limitações devido as algumas API´s utilizadas terem versões gratuitas fracas.
+All project diagrams and documents were developed, and the team utilized Scrum as the development methodology.
 
-Foram desenvolvidos todos os diagramas e documentos do projeto, e a equipe utilizou o Scrum como metodologia de desenvolvimento.
+The project was built using Java programming language with SpringBoot for the backend, and JavaScript with ReactJs for the frontend, along with HTML and CSS for markup and styling, respectively.
 
-O projeto foi feito utilizando as linguagens de programação Java, com SpringBoot para o backend, e JavaScript, com ReactJs para o frontend, além das linguagens de marcação e estilização HTML e CSS respectivamente.
-
-Utilizamos a API da yahoo finance para integrar a aplicação com o mercado financeiro, e assim realizar os calculos e buscar os dados necessários
+We integrated the application with the financial market using the Yahoo Finance API to perform calculations and retrieve necessary data.
